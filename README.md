@@ -3,8 +3,6 @@
 
 Soy un apasionado desarrollador de software con experiencia en la creación de aplicaciones web o proyectos en Java. Me gusta aprender nuevas tecnologías y mejorar constantemente mis habilidades.
 
-### 🚀 Tecnologías que utilizo
-
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,5 +35,3 @@ Soy un apasionado desarrollador de software con experiencia en la creación de a
 ### 📫 ¡Contacta conmigo!
 - LinkedIn: [jmdeug](https://www.linkedin.com/in/jmdeug/)
 - Correo: [jmdeug@gmail.com](mailto:jmdeug@gmail.com)
-
-Siempre estoy abierto a colaborar en proyectos interesantes. ¡No dudes en contactarme! 🚀
